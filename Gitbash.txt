@@ -1,0 +1,16 @@
+Folder ---> content
+
+right click--git bash here
+
+to make repo--(local repository)
+====================================
+git init -->
+
+making changes in folder or we can add more files in folder.
+
+
+making changes:
+--------------------
+git status
+git add<filename>-----> for single file
+git add.---> for multiple files
